@@ -1,0 +1,29 @@
+/** @format */
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: linear-gradient(135deg, #f8d2c7, #ed9277, #995e4d);
+}
+
+.container {
+  max-width: 1000px;
+}
+
+#menu {
+  background: #995e4d;
+}
+
+#menu a {
+  text-decoration: none;
+  color: #fff;
+}
+#menu a:hover {
+  background: #f8d2c7;
+  color: #16161d;
+}
